@@ -6,4 +6,5 @@ func main() {
   fmt.Println("Hello World!)
   fmt.Println("Hello World!)
   fmt.Println("第5个commit")
+  fmt.Println("第6个commit")
 }
